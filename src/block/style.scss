@@ -1,0 +1,16 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+ .cp-aside-gutenberg-block-content {
+  border:3px dashed #160c28;
+  margin: 1.5em 3em 1.5em 3em;
+  padding: 1em;
+  background-color: #e1efe6;
+}
+
+.cp-aside-gutenberg-block-content p:last-of-type {
+  margin-bottom: 0em;
+}

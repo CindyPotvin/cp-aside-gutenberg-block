@@ -1,0 +1,1 @@
+This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block) for the tutorial https://blog.cindypotvin.com/create-a-minimal-custom-gutenberg-block-in-wordpress/.
